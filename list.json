@@ -47,5 +47,6 @@
   "se38/zJSON",
   "VishnAndr/zuiddlb",
   "pixelbaker/ABAP-RayTracer",
-  "abramsba/abapLisp"
+  "abramsba/abapLisp",
+  "cesar-sap/abap_fm_json"
 ]
